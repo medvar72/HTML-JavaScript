@@ -1,2 +1,2 @@
 # HTML-JavaScript
-Somde HTML and JavaScript Code
+Some HTML and JavaScript Code
